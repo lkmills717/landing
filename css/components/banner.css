@@ -1,0 +1,16 @@
+.banner {
+    background-image: url(https://thumbs.web.sapo.io/?W=800&H=0&delay_optim=1&epic=NWUwUXQcYmXZBGHoUcSBYS1mcJm9mWnd7j5T1BhEnKS4v/btTA0T3v66jERed5MRcMcR3YTQTVQ2irgRluP45/SFAA6tNQx2dtZ1Z5mtJMIisI4=);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
